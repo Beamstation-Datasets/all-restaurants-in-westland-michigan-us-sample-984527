@@ -9,9 +9,9 @@
 | Dataset ID | `984527` |
 | Location | Westland |
 | Category | Restaurants |
-| Full dataset size | 252 records |
-| Free sample size | 25 records (9.92%) |
-| Last export | 2026-04-09T09:10:45.873223+00:00 |
+| Full dataset size | 250 records |
+| Free sample size | 25 records (10.0%) |
+| Last export | 2026-04-16T09:10:47.097388+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-westland-michigan-us-sample-984527/releases/download/sample-latest/beamstation_984527_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
