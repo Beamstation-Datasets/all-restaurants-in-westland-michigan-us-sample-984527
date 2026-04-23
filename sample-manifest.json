@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9d687d7e-1693-44ea-a9f4-e6a256beb9f9",
+  "export_job_id": "6c930c36-331a-4b96-b54e-2081822cfcfd",
   "id_short": 984527,
-  "published_at": "2026-04-19T19:24:27Z",
+  "published_at": "2026-04-23T19:16:32Z",
   "repo_name": "all-restaurants-in-westland-michigan-us-sample-984527",
   "sample_asset_name": "beamstation_984527_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/984527/beamstation_984527_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "5996cf2952fc537512c5345b3fad2a0c32ed3d7d83a88cb02c9697d8fae95771",
-  "sample_size_bytes": 101025,
-  "total_records": 250
+  "sample_records": 21,
+  "sample_sha256": "2ad0c67ee7be13e5962be43a1a1e8a34526cc13c1558643c5c4c9c1609aaf390",
+  "sample_size_bytes": 87124,
+  "total_records": 217
 }
