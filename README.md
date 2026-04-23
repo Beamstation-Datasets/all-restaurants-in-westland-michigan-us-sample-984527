@@ -1,6 +1,6 @@
 # All Restaurants in Westland, Michigan, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 21 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `984527` |
 | Location | Westland |
 | Category | Restaurants |
-| Full dataset size | 250 records |
-| Free sample size | 25 records (10.0%) |
-| Last export | 2026-04-16T09:10:47.097388+00:00 |
+| Full dataset size | 217 records |
+| Free sample size | 21 records (9.68%) |
+| Last export | 2026-04-23T09:12:05.050228+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-westland-michigan-us-sample-984527/releases/download/sample-latest/beamstation_984527_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
